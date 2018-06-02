@@ -1,0 +1,5 @@
+com\niit\domain\HelloWorld.class
+com\niit\config\AppConfig.class
+com\niit\domain\HelloWorldImpl.class
+com\niit\config\WebAppInitializer.class
+com\niit\controller\HelloController.class
